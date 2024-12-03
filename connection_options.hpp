@@ -17,7 +17,7 @@
 #ifndef DMITIGR_WSCL_CONNECTION_OPTIONS_HPP
 #define DMITIGR_WSCL_CONNECTION_OPTIONS_HPP
 
-#include "../fsx/filesystem.hpp"
+#include "../base/fsx.hpp"
 #include "dll.hpp"
 
 #include <chrono>
