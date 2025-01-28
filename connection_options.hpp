@@ -17,10 +17,10 @@
 #ifndef DMITIGR_WSCL_CONNECTION_OPTIONS_HPP
 #define DMITIGR_WSCL_CONNECTION_OPTIONS_HPP
 
-#include "../base/fsx.hpp"
 #include "dll.hpp"
 
 #include <chrono>
+#include <filesystem>
 #include <optional>
 #include <string>
 #include <string_view>
